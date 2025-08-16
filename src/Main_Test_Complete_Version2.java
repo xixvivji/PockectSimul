@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-public class Main_Test {
+public class Main_Test_Complete_Version2 {
 
     // 닉네임을 사용자에 맞게 변경해 주세요.
     static final String NICKNAME = "SEOUL_15_ANNA";
